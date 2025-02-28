@@ -1,5 +1,10 @@
 # G-CFM Project
 
+## To start application locally run:
+
+```sh
+npm run start:dev
+```
 A Next.js project with integrated cron service functionality.
 # we may need to use pnpm but npm can work though its slow, its okay go ahead
 ## Prerequisites
